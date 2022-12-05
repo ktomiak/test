@@ -24,6 +24,6 @@ if(isset($_POST['string'])) {
 ?>
 <form method="POST" >
     <input name="string" type="text"/>
-    <input type="submit"></input>
+    <input type="submit" style="color:red"/>
 </form>
 
